@@ -11,7 +11,7 @@
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ʜᴇʏ, I'm Eᴢɢİ!
 
-*Computer Programming Student | Backend Developer | Software Developer*
+*Computer Programming Student | Software Developer*
 <br />
 
 <!--Intro-->
