@@ -1,6 +1,6 @@
 <!--Header-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ezginur%20Ünver&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Programming%20Student%20%7C%20Backend%20Developer%20%7C%20Software%20Developer&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ezginur%20Ünver&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Data%20Scientist%20%7C%20Computer%20Vision%20%7C%20Computer%20Programming%20Student&descAlignY=55&descAlign=50"/>
 </p>
 
 <!--Night Owl image-->
@@ -11,18 +11,17 @@
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ʜᴇʏ, I'm Eᴢɢİ!
 
-*Computer Programming Student | Software Developer*
+*Aspiring Data Scientist | Computer Vision Enthusiast | Computer Programming Student*
 <br />
 
 <!--Intro-->
 <p align="left">
-I am a computer programming student who tries to get better at coding every single day. For me, writing code is not just a skill — it is a journey that never stops. I am improving myself in backend development, data science, and mobile application development.
+I'm a Computer Programming student turning my backend development background into a career in data science and computer vision. I like working where numbers, patterns and pixels turn into something a machine can actually understand — from training a model on messy real-world data to building a system that reads hand gestures from a live camera feed.
 </p>
 
-- ✨ Every line of code takes me one step further than yesterday.
-- 🌱 Currently working on: **Mobil Mouse** — controlling a computer with hand gestures.
-- 💡 I am curious about every area of software. I never stop learning.
-- 🎯 My goal: To become a strong software developer.
+- 🔍 Currently working on: **Mobil Mouse** — controlling a computer with hand gestures using OpenCV & MediaPipe.
+- 📊 Also building projects in exploratory data analysis, classic ML models, and data-driven apps.
+- 🎯 Goal: becoming a data scientist / computer vision engineer with a strong project portfolio.
 
 <!--Profile Count Badge-->
 <p align="left">
@@ -34,42 +33,61 @@ I am a computer programming student who tries to get better at coding every sing
 <!--Skills Section-->
 <h2 align="center">🛠️ Sᴋɪʟʟs & Tᴏᴏʟs 🛠️</h2>
 
-<h3 align="left">💻 Languages</h3>
+<h3 align="left">📊 Data Science</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<h3 align="left">📱 Frameworks & Libraries</h3>
+<h3 align="left">👁️ Computer Vision</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 <h3 align="left">⚙️ IDEs & Tools</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=webstorm,idea,pycharm,vscode,sublime,visualstudio,mysql,apache&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=pycharm,vscode,git,anaconda&theme=dark&perline=6" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-<h3 align="left">🎨 3D Modelling</h3>
+<h3 align="left">🧩 Also comfortable with</h3>
 <p align="left">
-  I use Blender for 3D modelling. I enjoy creating 3D models as a creative side of my software journey.
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 </p>
+<p align="left">
+  <sub>General software background from backend, mobile and game projects — kept alongside my data science / computer vision focus.</sub>
+</p>
+
+---
+
+<!--Currently Learning-->
+<h2 align="center">🌱 Cᴜʀʀᴇɴᴛʟʏ Lᴇᴀʀɴɪɴɢ & Bᴜɪʟᴅɪɴɢ 🌱</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Now-Chess%20Position%20Recognition%20(OpenCV%20%2B%20CNN)-c56a90?style=for-the-badge"/>
+</p>
+<ul align="left">
+  <li>🔲 Board detection & perspective transform with OpenCV</li>
+  <li>🧠 CNN-based piece classification (transfer learning)</li>
+  <li>♟️ FEN generation + Stockfish integration for move suggestions</li>
+</ul>
+
+<p align="left"><sub>This project is a work in progress — will be pinned here once it's live on GitHub.</sub></p>
 
 ---
 
