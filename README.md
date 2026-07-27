@@ -19,7 +19,7 @@
 I'm a Computer Programming student turning my backend development background into a career in data science and computer vision. I like working where numbers, patterns and pixels turn into something a machine can actually understand — from training a model on messy real-world data to building a system that reads hand gestures from a live camera feed.
 </p>
 
-- 🔍 Currently working on: **Mobil Mouse** — controlling a computer with hand gestures using OpenCV & MediaPipe.
+- 🔍 Currently working on: **FiyatCep** — is a mobile application that helps users compare product prices across multiple online stores with a single photo.
 - 📊 Also building projects in exploratory data analysis, classic ML models, and data-driven apps.
 - 🎯 Goal: becoming a data scientist / computer vision engineer with a strong project portfolio.
 
